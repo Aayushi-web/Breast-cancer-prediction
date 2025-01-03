@@ -1,12 +1,12 @@
-🩺 Breast Cancer Prediction
+🩺 #Breast Cancer Prediction
 
 Welcome to the Breast Cancer Prediction project repository! This project leverages machine learning techniques to predict breast cancer based on diagnostic data. The detailed analysis and implementation are available in the accompanying Jupyter Notebook.
 
-📜 Overview
+📜 #Overview
 
 Breast cancer is a common and serious health concern. Early and accurate diagnosis can significantly improve outcomes. This project explores a predictive model using machine learning techniques to assist in diagnosing breast cancer.
 
-Key Highlights
+#Key Highlights
 
 Comprehensive data preprocessing.
 
@@ -16,7 +16,7 @@ Implementation of machine learning models.
 
 Performance evaluation with metrics such as accuracy, precision, and recall.
 
-📊 Dataset
+📊# Dataset
 
 The dataset used in this project is publicly available and contains diagnostic information on breast cancer. Features include:
 
@@ -24,11 +24,11 @@ Mean radius, texture, perimeter, area, and smoothness.
 
 Diagnosis labels: M (malignant) and B (benign).
 
-Source: Kaggle Breast Cancer Dataset
+#Source: Kaggle Breast Cancer Dataset
 
-🛠️ Installation
+🛠️ #Installation
 
-Clone the repository:
+#Clone the repository:
 
 git clone https://github.com/your-username/breast-cancer-prediction.git
 
@@ -40,7 +40,7 @@ Install the required packages:
 
 pip install -r requirements.txt
 
-🧪 How to Run
+🧪 #How to Run
 
 Open the Jupyter Notebook:
 
